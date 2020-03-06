@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.title {
+	border: 5px solid;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	font-family: Palatino;
+	background-color: aliceblue
+}
+ 
+.div {
+	font-family: Verdana;
+	background-color: skyblue;
+	border: 5px solid;
+}
+
+body {
+	background-color: blanchedalmond;	
+}
+
+main {
+	font-family: Verdana;
+	background-color: skyblue;
+	border:5px solid;
+	margin-bottom: 25px;
+}
