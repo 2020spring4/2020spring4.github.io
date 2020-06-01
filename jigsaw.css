@@ -1,0 +1,81 @@
+/* CSS Document */
+
+body {
+	background-color: #808080;
+}
+
+h1 {
+	color: #FFFFFF;
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+	padding-top: 5px;	
+}
+
+h2 {
+	color: #FFFFFF;
+	padding-left: 5px;	
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+
+p {
+	color: #FFFFFF;
+	padding-left: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+	color: #FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+	color: #FFFFFF;
+	padding-left: 5px;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+
+
+a:link {color: #000069}
+a:hover {color: #e6e600}
+
+#link {
+	text-align: center;
+}
+
+li {
+	margin-bottom: 25px;
+}
+
+a {
+  color: #000069;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+table {
+  width: 600px;
+}
+
+caption {
+  font-size: 35px;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+td {
+  background-color: #	#FFFFFF;
+  text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 5px;
+}
+
+th {
+  background-color: #6699FF;
+  font-family: "Arial Black", Gadget, sans-serif;
+  border-style: solid;
+  padding: 20px;
+  border-color: #000000;
+  border-width: 5px;
+}
