@@ -6,16 +6,17 @@
 <title>The History of Baseball</title>
 <div class="pageup">
   <a href="">Home</a>
-  <a href="">Invention of Baseball</a>
-  <a href="">Racial equality</a>
-  <a href="">Marketing/hype era</a>
-  <a href="">Team Television Networks</a>
+  <a href="2020spring4.github.io/partone.io
+  ">Invention of Baseball</a>
+  <a href="2020spring4.github.io/parttwo.io">Racial equality</a>
+  <a href="2020spring4.github.io/partthree.io">Marketing/hype era</a>
+  <a href="2020spring4.github.io/partthree.io">Team Television Networks</a>
 </div>
 </head>
 
 <img src="https://en.wikipedia.org/wiki/Baseball_glove#/media/File:MAYS_THE_CATCH.JPG">
 
-<h1> Baseball was invented in 1869 in Cincinnati Ohio. At first the gloves looked very un sophisticated and the bats were wooden. The balls were also made with leather. Baseball grew to be one of the most controversial and important sports ever. It spread around the world and everyone appreciates it.<h1/> 
+<h1> Here in these links you will learn the basics on the history of baseball.<h1/> 
 
 
 
